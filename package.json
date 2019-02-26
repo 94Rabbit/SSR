@@ -1,0 +1,23 @@
+{
+  "name": "ssr",
+  "version": "1.0.0",
+  "description": "服务端渲染",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LhLoveZgg/SSR.git"
+  },
+  "author": "sakura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LhLoveZgg/SSR/issues"
+  },
+  "homepage": "https://github.com/LhLoveZgg/SSR#readme",
+  "dependencies": {
+    "vue": "^2.6.7",
+    "vue-server-renderer": "^2.6.7"
+  }
+}
